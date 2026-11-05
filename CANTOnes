@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Provincia de Los Ríos</title><style>body{font-family:Arial;line-height:1.6;background:#f3f7f4;color:#24332b;margin:0}header{background:#176b45;color:white;text-align:center;padding:22px}main{max-width:950px;margin:22px auto;background:white;padding:22px;border-radius:12px}h2{color:#176b45}img{max-width:100%;height:auto}iframe{max-width:100%;border:0}a{color:#176b45}.menu{columns:2}</style></head><body><header><h1>PROVINCIA DE LOS RÍOS</h1><p>Región Costa del Ecuador</p></header><main><h2>Descripción de la provincia</h2><p>La provincia de Los Ríos forma parte de la región Costa del Ecuador y se caracteriza por sus extensas zonas agrícolas, sus ríos y su clima cálido durante gran parte del año. Su capital es Babahoyo y es una de las provincias con mayor producción de arroz, cacao, banano y maíz. Además, cuenta con paisajes naturales, tradiciones, gastronomía y festividades que reflejan la riqueza cultural de sus habitantes.</p><h2>Bandera</h2><img src="https://i.ibb.co/SwG19rgx/Whats-App-Image-2026-10-30-at-20-48-53.jpg" alt="Bandera de Los Ríos" width="300"><h2>Datos de la provincia</h2><h3>Prefecto</h3><p>Johnny Terán Salcedo</p><img src="https://i.ibb.co/TxTsDx3H/teran.webp" alt="Johnny Terán Salcedo" width="180"><h3>Gobernador</h3><p>Andrés Rizzo Bajaña (encargado, según el código proporcionado)</p><img src="https://i.ibb.co/LzQmLfPM/Whats-App-Image-2026-11-02-at-22-03-20.jpg" alt="Andrés Rizzo Bajaña" width="180"><h3>Población</h3><p>898.652 habitantes (dato del código original; confirmar año de referencia).</p><h3>Fecha de creación</h3><p>6 de octubre de 1860</p><h2>Mapa</h2><iframe title="Mapa de Los Ríos" src="https://www.google.com/maps?q=Los+Rios,Ecuador&output=embed" width="100%" height="380" loading="lazy" allowfullscreen></iframe><h2>MENÚ DE CANTONES</h2><ul class="menu"><li><a href="baba.html">Baba</a></li>
+<li><a href="babahoyo.html">Babahoyo</a></li>
+<li><a href="buenafe.html">Buena Fe</a></li>
+<li><a href="mocache.html">Mocache</a></li>
+<li><a href="montalvo.html">Montalvo</a></li>
+<li><a href="palenque.html">Palenque</a></li>
+<li><a href="puebloviejo.html">Puebloviejo</a></li>
+<li><a href="quinsaloma.html">Quinsaloma</a></li>
+<li><a href="quevedo.html">Quevedo</a></li>
+<li><a href="urdaneta.html">Urdaneta</a></li>
+<li><a href="valencia.html">Valencia</a></li>
+<li><a href="ventanas.html">Ventanas</a></li>
+<li><a href="vinces.html">Vinces</a></li></ul><p><small>Selecciona un cantón para ver sus ocho apartados.</small></p></main></body></html>
